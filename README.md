@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BOHewavitharana
+- 👋 Hi, I’m Buddhima Hewavitharana
 - 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning Bsc in Management Information Systems
 - 💞️ I’m looking to collaborate on any project Involving Web Application Development :) 
