@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Buddhima Hewavitharana
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Bsc in Management Information Systems
+- 🌱 I’m currently a Management Information Systems Undergraduate
 - 💞️ I’m looking to collaborate on any project Involving Web Application Development :) 
 - 📫 How to reach me buddhimahewa@gmail.com OR https://www.linkedin.com/in/buddhima-hewavitharana-b96400215/ 
 
